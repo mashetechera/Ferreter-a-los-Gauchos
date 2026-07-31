@@ -189,11 +189,11 @@ footer{
 ========================== */
 
 .logo{
-    width: 120px;
+    width: 140px;
     height: auto;
-    margin-bottom: 15px;
+    display: block;
+    margin: 0 auto 20px;
 }
-
 .imagen-local,
 .imagen-productos{
     width: 100%;
