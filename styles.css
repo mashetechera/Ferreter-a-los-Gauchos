@@ -18,9 +18,8 @@ body{
 /* ==========================
    ENCABEZADO
 ========================== */
-
 header{
-    background-color: #d97706;
+    background-color: #C00000;
     color: white;
     text-align: center;
     padding: 30px 20px;
@@ -68,7 +67,7 @@ section{
 }
 
 section h2{
-    color: #d97706;
+    color: #C00000;
     margin-bottom: 15px;
 }
 
@@ -113,7 +112,7 @@ textarea{
 }
 
 button{
-    background-color: #d97706;
+    background-color: #C00000;
     color: white;
     border: none;
     padding: 12px 25px;
@@ -123,7 +122,7 @@ button{
 }
 
 button:hover{
-    background-color: #b45309;
+    background-color: #990000;
 }
 
 /* ==========================
