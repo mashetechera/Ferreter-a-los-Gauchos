@@ -177,3 +177,22 @@ footer{
     }
 
 }
+
+/* ==========================
+   IMÁGENES
+========================== */
+
+.logo{
+    width: 120px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.imagen-local,
+.imagen-productos{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 10px;
+    margin: 15px auto;
+    display: block;
+}
